@@ -14,7 +14,7 @@
     "build:css": "npm-run-all compile:sass concat:css prefix:css compress:css"
   },
   "author": "Jason Guro",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "autoprefixer": "^7.1.4",
     "concat": "^1.0.3",
