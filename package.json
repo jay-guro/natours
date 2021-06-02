@@ -1,7 +1,7 @@
 {
-  "name": "natours",
+  "name": "natours.jasonguro.com",
   "version": "1.0.0",
-  "description": "Landing page for natours",
+  "description": "Natours",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
@@ -15,6 +15,18 @@
   },
   "author": "Jason Guro",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jay-guro/natours.jasonguro.com.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jay-guro/natours.jasonguro.com/issues"
+  },
+  "homepage": "https://github.com/jay-guro/natours.jasonguro.com#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bulma": "^0.9.2"
+  },
   "devDependencies": {
     "autoprefixer": "^7.1.4",
     "concat": "^1.0.3",
