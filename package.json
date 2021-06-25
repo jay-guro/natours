@@ -1,7 +1,7 @@
 {
 	"name": "natours.jasonguro.com",
 	"version": "1.0.0",
-	"description": "Landing Page for Natours",
+	"description": "NATOURS",
 	"main": "index.js",
 	"scripts": {
 		"watch:sass": "node-sass sass/main.scss css/style.css -w",
